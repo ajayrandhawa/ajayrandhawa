@@ -13,7 +13,7 @@ skills, and proven ability to manage complex tasks.
 
 - 😍 Sometime in Love With : Exploit Development, Automation 
 
-5+ Year Experince in Networking, System Admin, System Security, Networking Security, Cyber Security
-4+ Year Experince In Full Stack Development (Python, C++, HTML, CSS, Javascript, Angular, Node, Ionic, Mysql, Php, React Native )
+#### 5+ Year Experince in Networking, System Admin, System Security, Networking Security, Cyber Security
+#### 4+ Year Experince In Full Stack Development (Python, C++, HTML, CSS, Javascript, Angular, Node, Ionic, Mysql, Php, React Native )
 
 Help Me: https://www.paypal.me/ajayrandhawa
