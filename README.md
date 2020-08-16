@@ -1,4 +1,6 @@
-### Hi there 👋OpenToWork :pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :
+### Hi there 👋OpenToWork 
+
+![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=ajayrandhawa.ajayrandhawa&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
 - 🔭 Possess expertise in secure product development, superior technical
 skills, and proven ability to manage complex tasks.
