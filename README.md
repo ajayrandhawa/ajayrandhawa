@@ -22,14 +22,16 @@ skills, and proven ability to manage complex tasks.
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/laravel.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/php.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/mysql.png" />
-<img  alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/html.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/css.png" /> 
-<img  lign="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/javascript.png" />
+<img  align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/html.png" />
+<img  alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/css.png" /> 
+
+<img  align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/javascript.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/angular.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/react.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/node.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/firebase.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/wordpress.png" />
+<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/postman.png" />
 <img  alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/IONIC.png" />  
 
 ### Help Me: https://www.paypal.me/ajayrandhawa
