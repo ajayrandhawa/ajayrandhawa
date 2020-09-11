@@ -33,5 +33,3 @@ skills, and proven ability to manage complex tasks.
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/wordpress.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/pstman.png" />
 <img  alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/IONIC.png" />  
-
-### Help Me: https://www.paypal.me/ajayrandhawa
