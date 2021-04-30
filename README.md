@@ -1,4 +1,4 @@
-### Hi there 👋OpenToWork | Waiting for Great Job Opportunity | Contact for Your Project
+### Hi there 👋OpenToWork | Contact for Your Project | Full Stack Developer (Angular, React, Ionic, React Native , Php)
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=ajayrandhawa.ajayrandhawa&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
