@@ -11,7 +11,6 @@ skills, and proven ability to manage complex tasks.
 
 - 📫 I'm mostly active on Linkedin or Email, leave your message.
 
-- ⚡ Fun fact: Procrastination
 
 - 😍 Sometime in Love With : Exploit Development, Automation 
 
