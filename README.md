@@ -1,4 +1,4 @@
-### Hi there 👋OpenToWork | Full Stack Developer (Angular, React, Ionic, React Native , Php)
+### Hi there 👋OpenToWork | Full Stack Developer | Cyber Security Pro | Apps Developer
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=ajayrandhawa.ajayrandhawa&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
