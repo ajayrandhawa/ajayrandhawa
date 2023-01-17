@@ -14,6 +14,8 @@ skills, and proven ability to manage complex tasks.
 
 - 😍 Sometime in Love With : Exploit Development, Automation 
 
+- 📞 +91 7696355852 ☕️
+
 
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/cplus.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/python.png" />
