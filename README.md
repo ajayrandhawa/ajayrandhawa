@@ -5,7 +5,7 @@
 - 🔭 Possess expertise in secure product development, superior technical
 skills, and proven ability to manage complex tasks.
 
-- 🌱 I’m currently learning native ios development and secure digital product design.
+- 🌱 I’m currently learning flutter and secure digital product design.
 
 - 👯 I’m looking to collaborate on private security tools.
 
