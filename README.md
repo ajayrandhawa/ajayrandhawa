@@ -28,9 +28,9 @@ skills, and proven ability to manage complex tasks.
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/react.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/node.png" />
 <img  align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/javascript.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/firebase.png" />
+<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/firebase.png" />  
 
-<br>
+
 
 **Disclaimer:**
 
