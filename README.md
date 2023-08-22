@@ -32,7 +32,7 @@ skills, and proven ability to manage complex tasks.
 
 
 
-**Disclaimer:**
+<h3>Disclaimer</h3>
 
 We wish to clarify our stance on certain matters regarding our services. Please read the following FAQ to better understand our policies and principles:
 
