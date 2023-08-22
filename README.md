@@ -30,10 +30,7 @@ skills, and proven ability to manage complex tasks.
 <img  align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/javascript.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/firebase.png" />
 
-
-
-*# Disclaimer and FAQ: Malware Development, Customization, and Responsibility
-
+-
 **Disclaimer:**
 
 We wish to clarify our stance on certain matters regarding our services. Please read the following FAQ to better understand our policies and principles:
