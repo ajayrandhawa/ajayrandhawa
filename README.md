@@ -32,7 +32,7 @@ skills, and proven ability to manage complex tasks.
 
 
 
-# Disclaimer and FAQ: Malware Development, Customization, and Responsibility
+*# Disclaimer and FAQ: Malware Development, Customization, and Responsibility
 
 **Disclaimer:**
 
