@@ -4,8 +4,6 @@ Join me on a multifaceted journey where we explore the dynamic realms of Cyber S
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=ajayrandhawa.ajayrandhawa&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
-DISCLAIMER : OUR TOOLS ARE FOR EDUCATIONAL PURPOSES ONLY. DON'T USE THEM FOR ILLEGAL ACTIVITIES. YOU ARE THE ONLY RESPONSABLE FOR YOUR ACTIONS! OUR TOOLS ARE OPEN SOURCE WITH NO WARRANTY AND AS ARE.
-
 - 🔭 Possess expertise in secure product development, superior technical
 skills, and proven ability to manage complex tasks.
 
@@ -33,5 +31,6 @@ skills, and proven ability to manage complex tasks.
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/firebase.png" />.
 
   
+DISCLAIMER : OUR TOOLS ARE FOR EDUCATIONAL PURPOSES ONLY. DON'T USE THEM FOR ILLEGAL ACTIVITIES. YOU ARE THE ONLY RESPONSABLE FOR YOUR ACTIONS! OUR TOOLS ARE OPEN SOURCE WITH NO WARRANTY AND AS ARE.
 
 
