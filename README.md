@@ -2,14 +2,14 @@
 
 Join me on a multifaceted journey where we explore the dynamic realms of Cyber Security, Full Stack Development, and the captivating world of AI technology. Whether you're a seasoned professional or just starting out, you'll find valuable insights, tutorials, and the latest trends in these tech domains. Beyond the digital landscape, we'll also delve into the serenity of spiritual practices and the exhilaration of mountain travel, embracing the balance between the virtual and the real world. 
 
-<b>I want to clarify that I do not develop on-demand hacking tools. Please refrain from messaging me about such requests via email. Thank you for your understanding.<b>
+<b>I want to clarify that I do not develop on-demand hacking tools. Please refrain from messaging me about such requests via email. Thank you for your understanding.</b><br><br>
 
-Services Offered
-Full Stack Development
-Web Design
-CMS Design
-CRM Design
-App Design
+Services Offered<br>
+Full Stack Development<br>
+Web Design<br>
+CMS Design<br>
+CRM Design<br>
+App Design<br>
 Feel free to reach out if you need assistance with any of these services!
 
 
