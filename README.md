@@ -5,20 +5,19 @@ Join me on a multifaceted journey where we explore the dynamic realms of Cyber S
 
 ⚠️<b>I want to clarify that I do not develop on-demand hacking tools. Please refrain from messaging me about such requests via email. Thank you for your understanding.</b>⚠️<br><br>
 
-
 <table>
   <tr>
-    <td colspan="6" align="center">
+    <td colspan="6" align="center" style="font-size: 28px; font-weight: bold;">
       Services
     </td>
   </tr>
   <tr>
-    <td>Software Design</td>
-    <td>Full Stack Development</td>
-    <td>Web Design</td>
-    <td>CMS Design</td>
-    <td>CRM Design</td>
-    <td>Android & iOS Apps</td>
+    <td style="font-size: 24px; font-weight: bold; padding: 15px; border: 2px solid #333; text-align: center;">Software Design</td>
+    <td style="font-size: 24px; font-weight: bold; padding: 15px; border: 2px solid #333; text-align: center;">Full Stack Development</td>
+    <td style="font-size: 24px; font-weight: bold; padding: 15px; border: 2px solid #333; text-align: center;">Web Design</td>
+    <td style="font-size: 24px; font-weight: bold; padding: 15px; border: 2px solid #333; text-align: center;">CMS Design</td>
+    <td style="font-size: 24px; font-weight: bold; padding: 15px; border: 2px solid #333; text-align: center;">CRM Design</td>
+    <td style="font-size: 24px; font-weight: bold; padding: 15px; border: 2px solid #333; text-align: center;">Android & iOS Apps</td>
   </tr>
 </table>
 
