@@ -7,7 +7,7 @@ Join me on a multifaceted journey where we explore the dynamic realms of Cyber S
 
 
 <table>
-  <tr>
+  <tr style="text-align:center">
     <td colspan="6">
     Services
     </td>
