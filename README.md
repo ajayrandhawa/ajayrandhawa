@@ -6,7 +6,7 @@ Join me on a multifaceted journey where we explore the dynamic realms of Cyber S
 ⚠️<b>I want to clarify that I do not develop on-demand hacking tools. Please refrain from messaging me about such requests via email. Thank you for your understanding.</b>⚠️<br><br>
 
 
-<table>
+<table style="width:100%">
   <tr>
     <td>Software Design</td>
     <td>Full Stack Development</td>
