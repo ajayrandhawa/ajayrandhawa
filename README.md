@@ -5,22 +5,6 @@ Join me on a multifaceted journey where we explore the dynamic realms of Cyber S
 
 ⚠️<b>I want to clarify that I do not develop on-demand hacking tools. Please refrain from messaging me about such requests via email. Thank you for your understanding.</b>⚠️<br><br>
 
-<table>
-  <tr>
-    <td colspan="6" align="center">
-      <b>Services</b>
-    </td>
-  </tr>
-  <tr>
-    <td>Software Design</td>
-    <td>Full Stack Development</td>
-    <td>Web Design</td>
-    <td>CMS Design</td>
-    <td>CRM Design</td>
-    <td>Android & iOS Apps</td>
-  </tr>
-</table>
-
 Feel free to reach out if you need assistance with any of these services!
 
 
